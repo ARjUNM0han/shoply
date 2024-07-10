@@ -35,7 +35,7 @@ function SingleProduct() {
             ) : (
                 <>
                     <div className="shell">
-                        <div className="container w-50">
+                        <div className="container body-width">
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="wsk-cp-product">
